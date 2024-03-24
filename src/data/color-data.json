@@ -1,22 +1,20 @@
 [
   {
     "id": "100010-100010-100102",
-    "title": "rojo pasion",
+    "title": "rojo",
     "color": "red",
     "feedback": "3"
   },
   {
     "id": "100010-100010-100103",
-    "title": "blue pasion",
+    "title": "blue",
     "color": "blue",
     "feedback": "4"
   },
   {
     "id": "100010-100010-100104",
-    "title": "green pasion",
+    "title": "green",
     "color": "green",
     "feedback": "1"
   }
 ]
-
-
